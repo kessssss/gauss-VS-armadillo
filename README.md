@@ -1,6 +1,5 @@
 # gauss-VS-armadillo
-this code compares two methods that are to find unknown variables for the system of the functions - polynoms. 
-multithreading can also be used here
+this code compares two methods that are to find unknown variables for the system of non-homogeneous equations
 
 # beforehand 
 make sure you have the following:
